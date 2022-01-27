@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=Saifur Rahman&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
